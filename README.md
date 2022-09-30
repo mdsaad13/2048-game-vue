@@ -1,5 +1,5 @@
 # 2048-vue
-This game is a cloned from [https://github.com/es-repo/vue-exps.git](https://github.com/es-repo/vue-exps.git) with some modifications.
+This game is cloned from [https://github.com/es-repo/vue-exps.git](https://github.com/es-repo/vue-exps.git) with some modifications.
 
 ### Features
 - Save game state to local storage
@@ -13,6 +13,8 @@ This game is a cloned from [https://github.com/es-repo/vue-exps.git](https://git
     - Customizable board themes
     - Switch between light and dark UI
 - Leaderboard (Firebase)
+
+---
 
 ## Project setup
 ```
