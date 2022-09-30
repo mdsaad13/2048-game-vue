@@ -1,0 +1,34 @@
+{
+    "background_color": "#000",
+    "theme_color": "#009688",
+    "name": "2048 Game",
+    "short_name": "2048 Game",
+    "start_url": "/",
+    "description": "2048 Game is a simple game where you join the numbers and get to the 2048 tile!",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "screensize": "small",
+    "icons": [
+        {
+            "src": "images/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "images/128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "images/64x64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "images/32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ]
+}
