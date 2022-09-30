@@ -1,4 +1,18 @@
 # 2048-vue
+This game is a cloned from [https://github.com/es-repo/vue-exps.git](https://github.com/es-repo/vue-exps.git) with some modifications.
+
+### Features
+- Save game state to local storage
+- Undo game move
+- Continue game from last state
+- New Chips colors
+- PWA support
+
+## TODO
+- Settings
+    - Customizable board themes
+    - Switch between light and dark UI
+- Leaderboard (Firebase)
 
 ## Project setup
 ```
