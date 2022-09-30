@@ -112,7 +112,13 @@ hr {
     min-height: calc(var(--vh, 1vh) * 100);
     padding: 3rem 1rem;
 
+    margin: auto;
+    max-width: 420px;
+
     @media (max-width: 576px) {
         padding: 2rem 1rem;
+        margin: 0;
+        width: 100%;
+        max-width: 100%;
     }
 }
